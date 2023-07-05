@@ -176,7 +176,7 @@ nav button{
     }
     @media screen and (max-width: 700px) {
         .right-part-nav{
-            font-size: 14px;
+            font-size: 12px;
         }
         .accueil{
             padding: 5px 10px;
@@ -232,20 +232,24 @@ nav button{
         }
         .mia{
             font-size: 15px;
-            margin: 5px;
+            margin: 3px;
+            padding: 15px;
         }
         .systematic{
             font-size: 15px;
-            margin: 5px;
+            margin: 3px;
+            padding: 15px;
         }
         .simple{
             font-size: 15px;
-            margin: 5px;
+            margin: 3px;
+            padding: 15px;
         }
         .contact{
-            font-size: 14px;
+            font-size: 13px;
             width: 85% ;
             padding: 5px;
+            margin: 45px auto;
         }
         .footer{
             border: #e9e9e9 3px solid
