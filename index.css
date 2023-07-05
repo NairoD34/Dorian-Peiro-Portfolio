@@ -244,11 +244,11 @@ nav button{
         .a-propos h2{
             font-size: 16px ;
                 }
-        .a-propos img{
+        .a-propos-img{
            display: none;
         }
         .a-propos-text{
-            margin: 0;
+            
         }
         
         
@@ -264,7 +264,10 @@ nav button{
         .projets{
             align-items: center;
             justify-content: center;
-            
+        }
+        .projets img{
+            max-width: 80%;
+            max-height: 80%;
         }
         .mia{
             font-size: 15px;
